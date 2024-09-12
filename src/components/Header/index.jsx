@@ -7,14 +7,14 @@ const Header = () => {
         {/* Left Section */}
         <div className="flex  space-x-4 mt-8">
           <div className='text-start'>
-            <h1 className="text-[28px] font-semibold ">Jane Doe</h1>
+            <h1 className="text-[28px] font-semibold ">Sebastian Rodriguez </h1>
             <div className="flex flex-col">
               <span className="flex gap-3 items-center">
                 <figure className='bg-white rounded-[14px] h-7 w-7 content-center flex justify-center'>
                 <img width="22" height="12" src="https://img.icons8.com/color/48/new-post.png" alt="new-post"/>
 
                 </figure>
-                jdoe@jeemail.com
+                sebasrm2000@gmail.com
               </span>
               <span className="flex gap-3 items-center mt-1">
               <svg xmlns="http://www.w3.org/2000/svg" fill="white" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">

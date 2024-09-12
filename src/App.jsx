@@ -20,6 +20,7 @@ function App() {
     <Projects/>
     <Recommendations/>
     <NewRecomendationAndForm/>
+    
     </>
   )
 }

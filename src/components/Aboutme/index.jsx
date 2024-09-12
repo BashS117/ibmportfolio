@@ -16,7 +16,7 @@ const AboutMe = () => {
         {/* Right Side: Text */}
         <div>
           <h1 className="text-[50px] font-bold text-purple-700 mb-2 flex items-center">
-            Hi, I'm Jane Doe! <span className="ml-2">👋</span>
+            Hi, I'm Bash code! <span className="ml-2">👋</span>
           </h1>
           <p className="text-gray-600 text-[20px] text-left">
             I am a full stack developer with 2 years of experience in both
