@@ -7,9 +7,9 @@ const AboutMe = () => {
         {/* Left Side: Image */}
         <div className="flex-shrink-0 w-[300px]">
           <img
-            src={aboutmeibm} // Imagen reemplazable
+            src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/049411176699705.64c96d3db707b.jpeg' // Imagen reemplazable
             alt="Developer Illustration"
-            className="w-[350px] h-[350px] rounded-full"
+            className="w-[350px] h-[350px] rounded-full object-cover"
           />
         </div>
 
